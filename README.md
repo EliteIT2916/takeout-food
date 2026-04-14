@@ -1,4 +1,4 @@
-# 苍穹外卖
+# 外卖系统（takeout）
 ## 🚀如果这个项目对你有帮助，请给我一个🌟Star 吧！
 
 你的支持对我意义重大，它会帮助我不断改进和优化这个项目。非常感谢！😊
@@ -7,7 +7,7 @@
 
 你只需要替换自己的 API 密钥即可完整运行本项目。
 
-📘 配套文档笔记：[《苍穹外卖》在线阅读](https://blog.yangzy.top/2025/sky_takeaway)
+📘 配套文档笔记：[《takeout》在线阅读](https://blog.yangzy.top/2025/sky_takeaway)
 
 <p>
   <a href="https://github.com/yingzya/takeout-food/raw/main/document/苍穹外卖.pdf">
@@ -40,4 +40,4 @@
 - 百度地图 API、OSS 文件上传
 - Nginx 前端代理部署
 
-#### 最后，特别感谢 [黑马程序员](https://www.itheima.com/) 提供的优质教程，感谢他们免费的课程！🌸
+
